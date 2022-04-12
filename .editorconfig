@@ -1,0 +1,10 @@
+root=true;
+# 风格同意
+[*]
+charset =utf-8
+indent_style=space
+# 缩进
+indent_size=2
+end_of_line=lf
+inset_final_newline=true
+trim_trailing_whitespace=true
