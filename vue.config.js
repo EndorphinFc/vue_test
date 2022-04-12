@@ -6,7 +6,11 @@ module.exports = defineConfig({
     resolve: {
       alias: {
         'assets': '@/assets',
-        
+        'common': '@/common',
+        'components': '@/components',
+        'network': '@/network',
+        'views': '@/views',
+        'node_modules':'./node_modules'
       }
     }
   }
